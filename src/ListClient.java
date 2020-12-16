@@ -4,8 +4,7 @@
  * Team Members: Daniel Watts, Emily Yamauchi, and Mehakpreet Kambo.
  * Team Project #2(Chapter 16, Programming Project #3)
  * Created by Mehakpreet Kambo
- * This class tests the functionality of the class AbstractList and shows that
- * it truly is a generic class.
+ * Driver code to test the generic nature of the AbstractList class.
  */
 public class ListClient {
 	public static void main(String[] args) {
