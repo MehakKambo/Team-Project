@@ -1,5 +1,5 @@
 # Team-Project
-Solution for Ch- 16(LinkedList), PP#3 
+LinkedList, PP#3 
 Project Specification:
 The implementation of several methods is (or can be) the same between our ArrayList and LinkedList. 
 Write a common abstract superclass called AbstractList that implements the common behavior and is extended by both ArrayList and LinkedList.
